@@ -1,8 +1,8 @@
 ## Thanks for Everything 
-### We will always remember you..
+### Please Support Me..
 
-- [Yusuf Usta](https://github.com/yusufusta)
-- [@fusufs](https://t.me/fusufs)
+- [Github](https://github.com/CYBERUDAYIPP)
+- [YouTube](https://www.youtube.com/c/CYBERUDAYIPP)
 
 <p align="center">
   <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/fork">
@@ -79,15 +79,15 @@ the user is responsible.
 
 <div align="center">
   <img src="https://i.hizliresim.com/mm1NBs.jpg" width="200" height="200">
-  <h1>🐺 WhatsAsena Duplicated</h1>
+  <h1>🐺 ⚔ˢᴬᴿᴬˢᵁᴮᴼᵀ⚔</h1>
 </div>
 <p align="center">
     WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
     <br>
-        <a href="https://t.me/WHATSASENA">Telegram Channel</a> |
-        <a href="https://t.me/AsenaSupport">Telegram Group</a> |
-        <a href="https://t.me/asenaremaster">New Support Group</a> |
-        <a href="https://t.me/unofficialplugin">New Plugin Channel</a> |
+        <a href="https://t.me/cyberudayipp">Telegram Channel</a> |
+        <a href="https://github.com/CYBERUDAYIPP">Github</a> |
+        <a href="https://www.youtube.com/c/CYBERUDAYIPP">YouTube</a> |
+        <a href="https://t.me/cyberudayipp">New Plugin Channel</a> |
     <br>
 </p>
 
@@ -95,11 +95,11 @@ the user is responsible.
 ![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square)
 
 ## 📢 Guide
-> [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport) (Legacy)
+> [Also for support & help please come our Telegram group.](https://t.me/cyberudayipp) (Legacy)
 
-> [New support & help group.](https://t.me/asenaremaster) (New)
+> [New support & help group.](https://t.me/cyberudayipp) (New)
 
-> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
+> [YouTube](https://www.youtube.com/c/CYBERUDAYIPP)
 
 ## 🔎 What is WhatsAsena?
 **WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [Phaticusthiccy](https://github.com/phaticusthiccy). Does not log into your account It is written on WhatsApp Web API.
@@ -112,12 +112,12 @@ the user is responsible.
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERUDAYIPP/sarasu-Bot)
 
 ### The Hard Method
 ```js
-$ git clone https://github.com/phaticusthiccy/WhatsAsenaDuplicated.git
-$ cd WhatsAsenaDuplicated
+$ git clone https://github.com/CYBERUDAYIPP/sarasu-Bot.git
+$ cd sarasu-Bot
 $ npm i
 $ nano Config.env
 // Config.env oluşturun ve düzenleyin.
